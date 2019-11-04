@@ -15,6 +15,7 @@ namespace SignalRChat.Hubs
         {
             await Clients.All.SendAsync("ReceiveMessage", user, message);
 
+            //test1
         }
     }
 }
