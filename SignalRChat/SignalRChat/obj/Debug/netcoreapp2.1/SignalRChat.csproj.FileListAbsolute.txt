@@ -61,3 +61,4 @@ E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.
 E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.dll
 E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.pdb
 E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.csproj.CopyComplete
+E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.csprojAssemblyReference.cache
