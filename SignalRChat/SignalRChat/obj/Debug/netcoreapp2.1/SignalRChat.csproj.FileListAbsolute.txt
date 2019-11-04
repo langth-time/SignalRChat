@@ -37,7 +37,6 @@ E:\demo\SignalRChat\SignalRChat\SignalRChat\bin\Debug\netcoreapp2.1\SignalRChat.
 E:\demo\SignalRChat\SignalRChat\SignalRChat\bin\Debug\netcoreapp2.1\SignalRChat.pdb
 E:\demo\SignalRChat\SignalRChat\SignalRChat\bin\Debug\netcoreapp2.1\SignalRChat.Views.dll
 E:\demo\SignalRChat\SignalRChat\SignalRChat\bin\Debug\netcoreapp2.1\SignalRChat.Views.pdb
-E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.csprojAssemblyReference.cache
 E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.csproj.CoreCompileInputs.cache
 E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.RazorAssemblyInfo.cache
 E:\demo\SignalRChat\SignalRChat\SignalRChat\obj\Debug\netcoreapp2.1\SignalRChat.RazorAssemblyInfo.cs
